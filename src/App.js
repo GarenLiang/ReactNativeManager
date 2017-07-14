@@ -7,7 +7,7 @@ import reducers from './reducers';
 import Router from './Router';
 class App extends Component {
   componentWillMount() {
-  
+    
     firebase.initializeApp(config);
   }
   render() {
