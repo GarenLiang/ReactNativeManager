@@ -1,5 +1,5 @@
 # ReactNativeManager
-# Add the your own code into the App.js to connect firebase :yum:
+* Add the your own code into the App.js to connect firebase :yum:
 ```javascript
 const config = {
     apiKey: "",
